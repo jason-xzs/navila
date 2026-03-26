@@ -1,0 +1,20 @@
+[
+  {
+    "episode_id": "4991",
+    "scene_id": "data/scene_datasets/mp3d/JeFG25nYj2p/JeFG25nYj2p.glb",
+    "instruction": "Walk past the striped area rug. Make a right onto the marble floor. Walk past th",
+    "num_frames": 15
+  },
+  {
+    "episode_id": "7880",
+    "scene_id": "data/scene_datasets/mp3d/JeFG25nYj2p/JeFG25nYj2p.glb",
+    "instruction": "Go straight past the couches. Exit the room using the two double doors on the ri",
+    "num_frames": 15
+  },
+  {
+    "episode_id": "3871",
+    "scene_id": "data/scene_datasets/mp3d/JeFG25nYj2p/JeFG25nYj2p.glb",
+    "instruction": "Go through the archway with the white windows, go passed the 4 pointed star on t",
+    "num_frames": 15
+  }
+]
