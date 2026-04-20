@@ -122,3 +122,12 @@ def register_datasets_mixtures():
         description="560K Real augmented, no direction is included. (augmented aith duplicate stops only - 5x)",
     )
     add_dataset(human)
+
+    realnav = Dataset(
+        dataset_name="realnav",
+        dataset_type="vlnce",
+        data_path="/home/nvme04/public_data/xzs_data/NaVILA-RealNav/annotations.json",
+        image_path="/home/nvme04/public_data/xzs_data/NaVILA-RealNav/train",
+        description="Real robot navigation data converted to NaVILA vlnce format.",
+    )
+    add_dataset(realnav)
